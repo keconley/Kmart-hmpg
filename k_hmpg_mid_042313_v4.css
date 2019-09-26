@@ -1,0 +1,325 @@
+/** ALL CSS  **/
+#kHMPG_midSection { margin:30px auto;}
+#kHMPG_midSection p, #kHMPGMid p, #kHMPGPromos p, #kHMPGPromos2 p, #kHMPGPromos2 p, #kHMPGBot p, #kHMPGBot2 p, kHMPGBot3 p, #kHMPGBot4 p, #kHMPGvalprop p  {font:12px Arial, Helvetica, sans-serif;padding:0px;margin:0px;left: 7px;top: 9px;font-weight: normal;height: 23px;}
+
+#kHMPG_midSection a.promo_cta, #kHMPGMid a.promo_cta, #kHMPGMid a.promo_cta2, #kHMPGMid2 a.promo_cta, #kHMPGPromos a.promo_cta, #kHMPGPromos2 a.promo_cta, #kHMPGPromos2 a.promo_cta2,#kHMPGBot a.promo_cta, #kHMPGBot2 a.promo_cta, #kHMPGBot3 a.promo_cta, #kHMPGBot4 a.promo_cta, #kHMPGvalprop a.promo_cta {color:#333;text-decoration:none;font: 12px Arial, Helvetica, sans-serif;}
+
+#kHMPGPromos2 a:hover.promo_cta, #kHMPGPromos2 a:hover.promo_cta2 {color:#CF001C;}
+
+#kHMPG_midSection a:hover.promo_cta, #kHMPGMid a:hover.promo_cta, #kHMPGMid2 a:hover.promo_cta, #kHMPGPromos2 a:hover.promo_cta, #kHMPGPromos3 a:hover.promo_cta, #kHMPGBot a:hover.promo_cta, #kHMPGBot2 a:hover.promo_cta, #kHMPGBot3 a:hover.promo_cta, #kHMPGBot4 a:hover.promo_cta, #kHMPGvalprop a:hover.promo_cta {color:#cf001c;background-position:right -140px;text-align: left;}
+
+#kHMPG_midSection a.seedetails, #kHMPG_midSection p.seedetails,
+#kHMPGMid a.seedetails, #kHMPGMid p.seedetails,
+#kHMPGMid2 a.seedetails, #kHMPGMid p.seedetails,
+#kHMPGPromos a.seedetails, #kHMPGPromos p.seedetails,
+#kHMPGPromos2 a.seedetails, #kHMPGPromos2 p.seedetails,
+#kHMPGPromos3 a.seedetails, #kHMPGPromos2 p.seedetails,
+#kHMPGPromos4 a.seeDetails, #kHMPGPromos p.seedetails,
+#kHMPGBot a.seedetails, #kHMPGBot p.seedetails,
+#kHMPGBot2 a.seedetails, #kHMPGBot2 p.seedetails,
+#kHMPGBot3 a.seedetails, #kHMPGBot3 p.seedetails,
+#kHMPGBot4 a.seedetails, #kHMPGBot4 p.seedetails,
+#kHMPGvalprop a.seedetails, #kHMPGvalprop p.seedetails 
+{color:#333;text-decoration:none;font:10px Arial, Helvetica, sans-serif;}
+
+#kHMPG_midSection a:hover.seedetails,
+#kHMPGMid a:hover.seedetails,
+#kHMPGMid2 a:hover.seedetails,
+#kHMPGPromos a:hover.seedetails, 
+#kHMPGPromos4 a:hover.seeDetails, 
+#kHMPGPromos2 a:hover.seedetails, 
+#kHMPGPromos3 a:hover.seedetails, 
+#kHMPGBot a:hover.seedetails, 
+#kHMPGBot2 a:hover.seedetails, 
+#kHMPGBot3 a:hover.seedetails, 
+#kHMPGBot4 a:hover.seedetails, 
+#kHMPGvalprop a:hover.seedetails 
+{color:#cf001c;	text-decoration:none;}
+
+
+/** GLOBAL CLASSES  **/
+#kHMPG_midSection .headline, #kHMPGPromos .headline, #kHMPGMid .headline, #kHMPGMid2 .headline, #kHMPGPromos2 .headline, #kHMPGPromos3 .headline, #kHMPGBot .headline, #kHMPGBot2 .headline, #kHMPGBot3 .headline, #kHMPGBot4 .headline, #kHMPGvalprop .headline{color:#CF001C;	font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: bold;}
+
+#kHMPG_midSection .red, #kHMPGMid .red, #kHMPGPromos .red, #kHMPGMid .red, #kHMPGBot .red, #kHMPGBot2 .red, #kHMPGBot3 .red, #kHMPGvalprop .red {font-size: 14px;font-weight: bold;color:#cf001c;}
+
+#kHMPG_midSection .smallBlack {font-size: 12px;color: #333;}
+#kHMPG_midSection .smallBlack.bold {font-size: 11px;color: #333;font-weight: bold;}
+#kHMPG_midSection .exclusions, #kHMPGMid .exclusions, #kHMPGBot2 .exclusions  {font-size:10px;}
+#kHMPG_midSection .bold_white {font-weight:bold;font-size:20px;letter-spacing: 3px;}
+#kHMPG_midSection .headline {font-weight:bold;font-size:20px;letter-spacing: 3px;color:#CF001C;}
+#kHMPGMid2 .kHMPG_promos.promo2 .bigRed {font-family: Arial, Helvetica, sans-serif;font-size: 58px;color: #CF001C;display: block;	position: absolute;left: 550px;top: 96px;width: 100px;height: 150px;font-weight: bold;line-height: 40px;padding-top: 10px;}
+
+
+/** MAIN STRUCTURE **/
+#kHMPGMid, #kHMPGMid2, #kHMPGPromos, #kHMPGPromos2, #kHMPGPromos3, #kHMPGPromos4, #kHMPGBotBanner, #kHMPGBot, #kHMPGBot2, #kHMPGBot3, #kHMPGBot4, #kHMPGvalprop, #kHMPGOscar {position: relative;width:780px;margin:0px auto;margin-bottom: 30px;}
+#kHMPGMid .kHMPG_promos, #kHMPGMid2 .kHMPG_promos, #kHMPGPromos .kHMPG_promos, #kHMPGBot .kHMPG_promos, #kHMPGMid .promo1, #kHMPGMid .promo2, #kHMPGMid .promo3 {position:absolute;top: 199px;left: 542px;width: 229px;height: 54px;}
+
+#kHMPGMid a.promo_cta_image, #kHMPGPromos a.promo_cta_image, #kHMPGBot a.promo_cta_image {display:block;top:0px;right:0px;height:100%;text-indent:-9999px;}
+
+#kHMPGMid{position: relative;height: 330px;background-image: url(/ue/home/k_HMPG_Row2_040213.jpg);background-repeat: no-repeat;}
+#kHMPGMid .promo1 {position: absolute;top: 160px;left: 0px;height: 110x;width: 245px;}
+#kHMPGMid .promo2 {left: 280px;position: absolute;top: 220px;height: 60px;}
+#kHMPGMid .promo3 {left: 542px;position: absolute;top: 220px;height: 65px;}
+#kHMPGMid a {text-decoration: none;position: absolute;height: 17px;width: 234px;left: 1px;top: 36px;}
+#kHMPGMid a.image1 {height: 160px;left: 0px;position: absolute;top: -167px;width: 229px;}
+#kHMPGMid a.image2 {height: 167px;left: 46px;position: absolute;top: -177px;width: 131px;}
+#kHMPGMid a.image3 {height: 166px;left: 25px;position: absolute;top: -184px;width: 170px;}
+#kHMPGMid .promo2 a {text-decoration:none; color:#333;}
+#kHMPGMid a.promo_cta_image {width:162px;}
+#kHMPGMid .promo1 p.offer_cta, #kHMPGPromos .promo2 p.offer_cta {width: 300px;}
+#kHMPGMid .smallBlack {font-size: 12px;color: #333;font-family: Arial, Helvetica, sans-serif;}
+#kHMPGMid .smallRed {font-size: 12px;font-weight: bold;color: #CF001C;}
+#kHMPGMid .kHMPG_promos.promo1 .smallblack {font-size: 12px;font-family: Arial, Helvetica, sans-serif;}
+
+
+/** MID 2 CSS **/
+#kHMPGMid2 {position: relative;height: 300px;background-image: url(/ue/home/k_HMPG_Row3_042313_v2.jpg);background-repeat: no-repeat;}
+#kHMPGMid2 .promo1 {position: absolute;top: 220px;left: 0px;width: 250px;height: 45px;}
+#kHMPGMid2 .promo2 {left: 290px;position: absolute;top: 205px;height: 70px;width: 225px;}
+#kHMPGMid2 .promo3 {height: 45px;left: 537px;position: absolute;top: 205px;width: 200px;}
+/*#kHMPGMid2 a {text-decoration: none;}*/
+#kHMPGMid2 a.image1 {height: 155px;left: 25px;	position: absolute;top: -175px;width: 200px;}
+
+/*#kHMPGMid2 .kHMPG_promos.promo1 .seeDetails {font-size: 10px;color: #666;font-family: Arial, Helvetica, sans-serif;text-decoration: none;}
+#kHMPGMid2 .kHMPG_promos.promo1 a.seeDetails {color: #666; text-decoration: none;}
+#kHMPGMid2 .kHMPG_promos.promo1 a:hover.seeDetails {color: #CF001C; text-decoration: none;}*/
+
+#kHMPGMid2 a.image2 {height: 145px;left: -12px;position: absolute;top: -160px;width: 231px;}
+#kHMPGMid2 a.image3 {height: 150px;left: 30px;position: absolute;top: -165px;width: 174px;}
+#kHMPGMid2 .promo2 a {text-decoration:none; color:#333;}
+#kHMPGMid2 a.promo_cta_image {width:162px;}
+#kHMPGMid2 .smallRed {font-size: 12px;font-weight: bold;color: #CF001C;}
+#kHMPGMid2 a:hover.promo_cta {color:#CF001C;text-align: left;}
+#kHMPGMid2 .kHMPG_promos.promo2 .bold_white {display: block;position: absolute;left: 560px;top: 63px;width: 171px;font-family: Arial, Helvetica, sans-serif;color: #FFF;font-size: 24px;height: 24px;font-weight: bold;}
+
+#kHMPGMid2 .kHMPG_promos.promo1 .redhdline {font-family: Arial, Helvetica, sans-serif;font-weight: bold;color: #CF001C;font-size: 18px;}
+#kHMPGMid2 .kHMPG_promos.promo2 .redhdline {font-family: Arial, Helvetica, sans-serif;font-weight: bold;color: #CF001C;font-size:18px;}
+#kHMPGMid2 .kHMPG_promos.promo3 .redhdline {font-family: Arial, Helvetica, sans-serif;font-weight: bold;color: #CF001C;font-size:18px;}
+
+#kHMPGMid2 a.promo_cta .smallBlack{position:absolute; top:20px; left:1px; width:100px; font-size:12px; color:#333;}
+#kHMPGMid2 a:hover.promo_cta .smallBlack {color:#CF001C;text-align: left; text-decoration:none;}
+#kHMPGMid2 a:hover.promo_cta2 .smallBlack {color:#CF001C;text-align: left; text-decoration:none;}
+#kHMPGMid2 a.promo_cta2 .smallBlack {color:#333;text-align: left; font-size:12px; margin-top:5px;}
+#kHMPGMid2 a.promo_cta_image {width:162px;}
+#kHMPGMid2 .promo1 p.offer_cta, #kHMPGPromos .promo2 p.offer_cta {width: 300px;}
+#kHMPGMid2  .seeDetails {text-decoration: none;}
+
+#kHMPGMid2 .kHMPG_promos.promo1 .smallBlack, 
+#kHMPGMid2 .kHMPG_promos.promo2 .smallBlack, 
+#kHMPGMid2 .kHMPG_promos.promo3 .smallBlack {font-size: 12px;font-family: Arial, Helvetica, sans-serif;color: #333;text-decoration: none;} 
+
+#kHMPGMid2 .kHMPG_promos.promo1 a.smallBlack, 
+#kHMPGMid2 .kHMPG_promos.promo2 a.smallBlack, 
+#kHMPGMid2 .kHMPG_promos.promo3 a.smallBlack {color: #333;text-decoration: none;} 
+
+#kHMPGMid2 .kHMPG_promos.promo1 a:hover.smallBlack, 
+#kHMPGMid2 .kHMPG_promos.promo2 a:hover.smallBlack, 
+#kHMPGMid2 .kHMPG_promos.promo3 a:hover.smallBlack {color: #CF001C;text-decoration: none;} 
+
+/** PROMO BOXES CSS **/
+#kHMPGPromos2 h2.head, #kHMPGPromos3 h2.head, #kHMPGMid h2.head, #kHMPGMid2 h2.head, #kHMPGBot3 h2.head {color: #333;font: bold 26px Arial,Helvetica,sans-serif;letter-spacing: -1px;width: 530px;z-index: 10;position: relative;font-size: 24px;font-family: Arial, Helvetica, sans-serif;} 
+#kHMPGPromos h2.head{color: #333;font: bold 26px Arial,Helvetica,sans-serif;letter-spacing: -1px;width: 530px;z-index: 10;position: absolute;top:-10px;}
+#kHMPGBot2 h2.head {color: #f37f21;font: bold 25px Arial,Helvetica,sans-serif;letter-spacing: -1px;width: 530px;z-index: 10;position: relative;text-transform: uppercase;}
+#kHMPGBot h2.head {color: #f37f21;font: bold 25px Arial,Helvetica,sans-serif;letter-spacing: -1px; width: 530px;z-index: 10;position: relative;text-transform: uppercase;}
+
+
+/** PROMO 1 CSS **/
+#kHMPGPromos {position: relative;border-bottom: 1px solid #eaeaea;height: 300px;}
+#kHMPGPromos .promo1 {width: 450px;height: 295px;left: 0px;top: -10px;background-image: url(/ue/home/k_HMPG_Row1_042313.jpg);background-repeat: no-repeat;}
+
+#kHMPGPromos .promo1 .left {left: 3px; position: relative; top: 40px;}
+#kHMPGPromos .promo2 {left: 467px;position: absolute;top: -13px;}
+#kHMPGPromos .kHMPG_promos.promo1 a.image1 {height: 250px;left: 160px;position: absolute;top: 37px;width: 271px;}
+
+#kHMPGPromos .buyNow {position: absolute;height: 63px;width: 175px;font-family: Arial, Helvetica, sans-serif;color: #333;left: 2px;top: 120px;	text-decoration: none;font-size: 12px;}
+
+#kHMPGPromos a.buyNow {color:#333;}
+#kHMPGPromos a:hover.buyNow {color:#CF001C;}
+
+#kHMPGPromos .buyNow2 {position: absolute;height: 63px;width: 175px;font-family: Arial, Helvetica, sans-serif;color: #333;left: 2px;top: 177px;	text-decoration: none;font-size: 12px;}
+
+#kHMPGPromos a.buyNow2 {color:#333;}
+#kHMPGPromos a:hover.buyNow2 {color:#CF001C;}
+#kHMPGPromos .kHMPG_promos.promo1 .medRed {font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: bold;color: #CF001C;}
+
+#kHMPGPromos .kHMPG_promos.promo1 .promo_cta2 {font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #333;text-decoration:none;}
+#kHMPGPromos a.kHMPG_promos.promo1 .promo_cta2 {color: #333;text-decoration: none;}
+#kHMPGPromos a:hover.kHMPG_promos.promo1 .promo_cta2 {color: #CF001C;text-decoration: none;}
+#kHMPGPromos .kHMPG_promos.promo1 .buyNow .promo_cta .smallBlack {font-family: Arial, Helvetica, sans-serif;color: #333;text-decoration: none; font-size:12px; }
+#kHMPGPromos .kHMPG_promos.promo1 a.buyNow .smallBlack {color:#333; text-decoration:none;margin-top:5px;}
+#kHMPGPromos .kHMPG_promos.promo1 a:hover.buyNow .smallBlack {color:#CF001c; text-decoration:none;}
+
+
+/** PROMOS 4 CSS **/
+#kHMPGPromos4 {position: relative;border-bottom: 1px solid #eaeaea;height: 300px;}
+#kHMPGPromos4 .promo1 {width: 450px;height: 295px;left: 0px;top: -10px;background-image: url(/ue/home/k_HMPG_Row1_041413.jpg);	background-repeat: no-repeat;}
+
+#kHMPGPromos4 .promo1 .left {left: 3px; position: relative; top: 40px;}
+#kHMPGPromos4 .promo2 {left: 467px;position: absolute;top: -13px;}
+
+
+
+/** PROMOS 2 CSS **/
+#kHMPGPromos2 {position: relative;height: 325px;background-image: url(/ue/home/k_HMPG_Row2_042313.jpg);background-repeat: no-repeat;}
+#kHMPGPromos2 .promo1 {position: absolute;top: 205px;left: 4px;width: 184px;text-align:left;}
+#kHMPGPromos2 .promo2 {left: 290px;height:65px;position: absolute;top: 205px;width: 210px;text-align:left;}
+#kHMPGPromos2 .promo3 {left: 544px;position: absolute;top: 222px;width: 100px;height: 15px;font-family: Arial, Helvetica, sans-serif;font-size: 14px;color: #333;font-weight: bold;}
+#kHMPGPromos2 .promo4 {left: 714px;position: absolute;top: 294px;width: 65px;height: 17px;color: #000;}
+
+/*#kHMPGPromos2 a {text-decoration: none;color: #333;font-size:14px;font-family:Arial, Helvetica, sans-serif;font-weight:bold;text-align:right;}*/
+
+#kHMPGPromos2 a.image1 {height: 135px;left: 25px;position: absolute;top: -145px;width: 200px;}
+#kHMPGPromos2 a.image2 {height:140px;left:0px;position:absolute;top:-160px;width:215px;}
+#kHMPGPromos2 a.image3 {left: -1px;position: absolute;top: -180px;width: 220px;text-align:center;height: 160px;}
+#kHMPGPromos2 a.image4 {left: -713px;position: absolute;top: -8px;width: 710px;color: #333;font-weight: bold;text-align: right;height: 36px;}
+#kHMPGPromos2 .kHMPG_promos.promo4 .promo_cta .bigred {font-family: Arial, Helvetica, sans-serif;font-size: 35px;font-weight:bold;color: #CF001C;}
+
+#kHMPGPromos2 .kHMPG_promos.promo4 a.promo_cta .bigred {color:#CF001C;}
+#kHMPGPromos2 .kHMPG_promos.promo4 a:hover.promo_cta .bigred {color:#333;text-align: left;font-size: 35px;}
+#kHMPGPromos2 .kHMPG_promos.promo4 .promo_cta .smallGray {font-family: Arial, Helvetica, sans-serif;font-size: 12px;font-weight: bold;	color: #333;position: absolute;left: 208px;top: 18px;width: 60px;}
+
+#kHMPGPromos2 .kHMPG_promos.promo4 a.promo_cta .smallGray {color:#333;font-size:12px;}
+#kHMPGPromos2 .kHMPG_promos.promo4 a:hover.promo_cta .smallGray {color:#CF001C; font-size:12px;}
+
+#kHMPGPromos2 a.promo_cta .smallBlack{position:absolute; top:35px; left:1px; width:100px; font-size:12px; color:#333;}
+#kHMPGPromos2 a:hover.promo_cta .smallBlack {color:#CF001C;text-align: left; text-decoration:none;}
+#kHMPGPromos2 a.promo_cta2 .smallBlack {color:#333;text-align: left; letf:1px; top:20px; font-size:12px; text-decoration:none;}
+#kHMPGPromos2 a:hover.promo_cta2 .smallBlack {color:#CF001C;text-align: left; text-decoration:none;}
+#kHMPGPromos2 a.promo_cta3 .smallBlack {color:#333;text-align: left; letf:1px; top:20px; font-size:12px; text-decoration:none;}
+#kHMPGPromos2 a:hover.promo_cta3 .smallBlack {color:#CF001C;text-align: left; text-decoration:none;}
+#kHMPGPromos2 .promo2 a {text-decoration:none;color:#666;}
+#kHMPGPromos2 a.promo_cta_image {width:162px;}
+#kHMPGPromos2 .smallBlack {font-size: 12px;color: #666;font-family: Arial, Helvetica, sans-serif;text-align: left;}
+#kHMPGPromos2 p.smallBlack {margin-top:5px;text-align: left;}
+#kHMPGPromos2 .smallRed {font-size: 12px;font-weight: bold;color: #CF001C;}
+#kHMPGPromos2 .headtitle {font-family: Arial, Helvetica, sans-serif;font-size: 24px;font-weight: bold;text-decoration: none;}
+#kHMPGPromos2 a.headtitle {font-family: Arial, Helvetica, sans-serif;font-size: 24px;font-weight: bold;text-decoration: none;}
+#kHMPGPromos2 a:hover.headtitle {font-family: Arial, Helvetica, sans-serif;font-size: 24px;font-weight: bold;text-decoration: none;color: #CF001C;}
+#kHMPGPromos2 a.promo_cta2 {color:#333;text-decoration:none;font: 12px Arial, Helvetica, sans-serif;}
+#kHMPGPromos2 a:hover.promo_cta2 {color:#cf001c;text-decoration:none;}
+#kHMPGPromos2 .kHMPG_promos.promo1 .smallBlack {font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #333;text-align: left;}
+#kHMPGPromos2 .kHMPG_promos.promo1 a.smallBlack {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #333; text-decoration:none; margin-top:5px;}
+
+#kHMPGPromos2 .kHMPG_promos.promo1 a:hover.smallBlack {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #CF001C; text-decoration:none;}
+
+#kHMPGPromos2 .kHMPG_promos.promo1 .plaintxt {font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #333;}
+#kHMPGPromos2 .kHMPG_promos.promo2 .plaintxt {font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #333;}
+#kHMPGPromos2 .redhdline {font-family: Arial, Helvetica, sans-serif;font-weight: bold;color: #CF001C;font-size:18px;}
+#kHMPGPromos2 .kHMPG_promos.promo2 .plaintext {font-size: 10px;font-family: Arial, Helvetica, sans-serif;color: #333;margin-top: 5px;}
+#kHMPGPromos2 .kHMPG_promos.promo2 a..plaintext {color:#333; text-decoration:none;}
+#kHMPGPromos2 .kHMPG_promos.promo2 a:hover.plaintext {color:#CF001C; text-decoration:none;}
+#kHMPGPromos2 .promo3 a:hover.seeDetails{color:#CF001C;}
+
+#kHMPGPromos2 .kHMPG_promos.promo6 .promo_cta .bigred {text-align:left; font-family: Arial, Helvetica, sans-serif;font-size: 58px;line-height:50px;font-weight: bold;color: #CF001C;}
+#kHMPGPromos2 .kHMPG_promos.promo6 a.promo_cta .bigred {color:#CF001C;}
+#kHMPGPromos2 .kHMPG_promos.promo6 a:hover.promo_cta .bigred {color:#333;text-align: left;font-size: 58px;}
+
+#kHMPGPromos2 .kHMPG_promos.promo6 .promo_cta .smallGray {font-family: Arial, Helvetica, sans-serif;font-size: 12px;font-weight: bold;	color: #333;position: absolute;left: 12px;top: 120px;width: 74px;}
+
+#kHMPGPromos2 .kHMPG_promos.promo6 a.promo_cta .smallGray {color:#333;top:165px;text-decoration:none;left: 2px;}
+#kHMPGPromos2 .kHMPG_promos.promo6 a:hover.promo_cta .smallGray {color:#CF001C;text-decoration: none;}
+
+/** PROMOS 3 CSS **/
+#kHMPGPromos3{position: relative;height: 320px;background-image: url(/ue/home/k_HMPG_Row4_042313_v2.jpg);background-repeat: no-repeat;}
+#kHMPGPromos3 .promo1 {position: absolute;top: 230px;left: 0px;height: 40px;width: 205px;color: #333;font-family: Arial, Helvetica, sans-serif;font-size: 12px;text-decoration: none;}
+
+#kHMPGPromos3 .promo2 {left: 290px;position: absolute;top: 210px;height: 65px;width: 185px;color: #333;font-size: 12px;text-decoration: none;}
+
+#kHMPGPromos3 .promo3 {left: 544px;position: absolute;top: 230px;height: 25px;width: 170px;text-decoration: none;}
+#kHMPGPromos3 .promo4 {left: 714px;position: absolute;top: 294px;height: 25px;width: 100px;text-decoration: none;}
+#kHMPGPromos3 .promo6 {left: 544px;position: absolute;top: 61px;width: 220px;height: 161px;font-family: Arial, Helvetica, sans-serif;	font-size: 14px;color: #333;}
+
+#kHMPGPromos3 a.image1 {height: 185px;left:75px;position: absolute;top: -200px;width: 110px;}
+#kHMPGPromos3 a.image2 {height: 160px;left: -2px;position: absolute;top: -165px;width: 131px;}
+#kHMPGPromos3 a.image3 {height: 145px;left: 0px;position: absolute;top: -165px;width: 210px;}
+#kHMPGPromos3 a.image4 {height: 35px;left: -710px;position: absolute;top: -15px;width: 700px;}
+#kHMPGPromos3 a.image6 {left: 1px;position: absolute;top: -1px;width: 217px;color: #FFF;font-size:24px;font-weight: bold;line-height:22px;text-align:center;height: 157px;}
+
+/*#kHMPGPromos3 .promo1 a {text-decoration:none;color:#333;position:absolute;top:18px;left: 1px;width:100px;}*/
+
+/*#kHMPGPromos3 .promo2 a {text-decoration:none;color:#333;top:6px;left: 1px;height: 27px;width: 230px;}*/
+#kHMPGPromos3 a.promo_cta .smallBlack{color:#333;text-decoration: none;}
+#kHMPGPromos3 p.smallBlack {margin-top:5px;text-align: left;}
+#kHMPGPromos3 a:hover.promo_cta .smallBlack {color:#CF001C;text-align: left; text-decoration:none;}
+#kHMPGPromos3 a.promo_cta2 .smallBlack {color:#333;text-align: left; letf:1px; top:20px; font-size:12px; text-decoration:none;}
+#kHMPGPromos3 a:hover.promo_cta2 .smallBlack {color:#CF001C;text-align: left; text-decoration:none;}
+#kHMPGPromos3 a.promo_cta_image {width:162px;}
+.kmart a:hover {text-decoration:none;}
+#kHMPGPromos3 .promo1 p.offer_cta, #kHMPGPromos .promo2 p.offer_cta {width: 300px;}
+
+/*#kHMPGPromos3 .smallBlack {font-size: 12px;color: #333;font-family: Arial, Helvetica, sans-serif;text-decoration: none;}
+#kHMPGPromos3 a.smallBlack {font-size: 12px;color: #333;font-family: Arial, Helvetica, sans-serif; text-decoration:none;}*/
+
+#kHMPGPromos3 a.promo2 {font-size: 12px;color: #333; text-decoration:none;}
+#kHMPGPromos3 a:hover.promo2 {font-size: 12px;color: #CF001C; text-decoration:none;}
+#kHMPGPromos3 .smallRed {font-size: 12px;font-weight: bold;color: #CF001C;text-decoration: none;}
+#kHMPGPromos3 .kHMPG_promos.promo2 .bigRed {font-family: Arial, Helvetica, sans-serif;font-size: 58px;font-weight: bold;color: #CF001C;	position: absolute;left: -231px;top: 55px;width: 229px;height: 137px;text-align: left;letter-spacing: 2px;}
+
+#kHMPGPromos3 .smallBlack {font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #333;text-align: left;}
+#kHMPGPromos3 .image3a {font-family: Arial, Helvetica, sans-serif;font-size: 22px;font-weight: bold;color: #FFF;text-align: center;	position: absolute;height: 32px;width: 206px;left: 4px;top: -38px;text-decoration: none;letter-spacing: 1px;}
+
+#kHMPGPromos3 .bigRed {font-family: Arial, Helvetica, sans-serif;font-size: 58px;font-weight: bold;color: #CF001C;text-decoration: none;	letter-spacing: 2px;text-align: left;line-height: 58px;}
+
+#kHMPGPromos3 .kHMPG_promos.promo3 a.bigRed {color: #CF001C;}
+#kHMPGPromos3 .kHMPG_promos.promo3 a:hover.bigRed {color: #333;}
+
+#kHMPGPromos3 .kHMPG_promos.promo3 .smallGrey {font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #333;text-align: left;	position: absolute;height: 22px;width: 63px;left: 2px;top: 143px;text-decoration: none;}
+
+#kHMPGPromos3 .kHMPG_promos.promo3 a.smallGrey {Color:#333;}
+#kHMPGPromos3 .kHMPG_promos.promo3 a:hover.smallGrey {color: #CF001C;}
+#kHMPGPromos3 .kHMPG_promos.promo6 .promo_cta .bigred {text-align:left; font-family: Arial, Helvetica, sans-serif;font-size: 58px;line-height:50px;font-weight: bold;color: #CF001C;}
+#kHMPGPromos3 .kHMPG_promos.promo6 a.promo_cta .bigred {color:#CF001C;}
+#kHMPGPromos3 .kHMPG_promos.promo6 a:hover.promo_cta .bigred {color:#333;text-align: left;font-size: 58px;}
+
+#kHMPGPromos3 .kHMPG_promos.promo6 .promo_cta .smallGray {font-family: Arial, Helvetica, sans-serif;font-size: 12px;font-weight: bold;	color: #333;position: absolute;left: 12px;top: 120px;width: 74px;}
+
+#kHMPGPromos3 .kHMPG_promos.promo6 a.promo_cta .smallGray {color:#333;top:165px;text-decoration:none;left: 2px;}
+#kHMPGPromos3 .kHMPG_promos.promo6 a:hover.promo_cta .smallGray {color:#CF001C;text-decoration: none;}
+#kHMPGPromos3 .kHMPG_promos.promo2 .image2 {position: absolute;height: 141px;top: -165px;left: 0px;width: 220px;}
+#kHMPGPromos3 .kHMPG_promos.promo3 .image3 {position: absolute;height: 150px;top: -170px;left: -0px;width: 210px;}
+#kHMPGPromos3 .redhdline {font-family: Arial, Helvetica, sans-serif;font-weight: bold;color: #CF001C;font-size: 18px;text-align: left;	text-decoration: none;}
+
+
+/** BOTTOM BANNER CSS **/
+#kHMPGBot {height:177px;background-image: url(/ue/home/k_HMPG_Row5_040913.jpg);background-repeat: no-repeat;margin-bottom: 30px;}
+#kHMPGBot .headline{font:bold 16px/20px Arial, Helvetica, sans-serif;color:#f37f21;}
+#kHMPGBot a {text-decoration:none; color:#333;}
+#kHMPGBot .promo1 {left: 112px;position: absolute;top: 66px;width: 125px;}
+#kHMPGBot .promo2 {left: 384px;position: absolute;top: 66px;width: 125px;height: 67px;}
+#kHMPGBot .promo3 {left: 585px;position: absolute;top: 66px;width: 163px;height: 67px;}
+#kHMPGBot .promo3 .vSmallBlack {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #333;text-decoration: none;}
+#kHMPGBot .smallBlack {font-size: 12px;color: #333;}
+#kHMPGBot .seeDetails {font-size: 10px;color: #333;}
+#kHMPGBot a:hover.seeDetails {color:#cf001c;text-decoration:none;}
+#kHMPGBot a.promo_cta2 {color:#333;text-decoration:none;font: 11px Arial, Helvetica, sans-serif;}
+#kHMPGBot a:hover.promo_cta2 {color:#cf001c;text-decoration:none;}
+#kHMPGBot a.promo_cta .vSmallBlack{color:#333;text-decoration:none;font: 10px Arial, Helvetica, sans-serif;}
+#kHMPGBot a:hover.promo_cta .vSmallBlack {color:#cf001c;text-decoration:none;font-size: 10px;}
+
+
+/** BOTTOM BANNER 2 CSS **/
+#kHMPGBot2 {height:177px;background-image: url(/ue/home/k_HMPG_Row5_040913.jpg);background-repeat: no-repeat;margin-bottom: 30px;}
+#kHMPGBot2 .headline{font:bold 16px/20px Arial, Helvetica, sans-serif;color:#f37f21;}
+#kHMPGBot2 a {text-decoration:none; color:#333;}
+#kHMPGBot2 .promo1 {left: 112px;position: absolute;top: 66px;width: 125px;}
+#kHMPGBot2 .promo2 {left: 384px;position: absolute;top: 66px;width: 125px;height: 67px;}
+#kHMPGBot2 .promo3 {left: 541px;position: absolute;top: 66px;width: 163px;height: 67px;}
+#kHMPGBot2 .promo3 .vSmallBlack {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #333;text-decoration: none;}
+#kHMPGBot2 .smallBlack {font-size: 12px;color: #333;}
+#kHMPGBot2 .seeDetails {font-size: 10px;color: #333;}
+#kHMPGBot2 a:hover.seeDetails {color:#cf001c;text-decoration:none;}
+#kHMPGBot2 a.promo_cta2 {color:#333;text-decoration:none;font: 11px Arial, Helvetica, sans-serif;}
+#kHMPGBot2 a:hover.promo_cta2 {color:#cf001c;text-decoration:none;}
+#kHMPGBot2 a.promo_cta .vSmallBlack{color:#333;text-decoration:none;font: 10px Arial, Helvetica, sans-serif;}
+#kHMPGBot2 a:hover.promo_cta .vSmallBlack {color:#cf001c;text-decoration:none;font-size: 10px;}
+
+
+/* OAS PAID AD STYLE - DO NOT REMOVE */
+#OAS_posTopRight {border-left: 1px solid #eaeaea !important; height: 250px; padding: 0 16px 18px; position: relative; top: 20px; width: 300px; z-index: 1;}
+#OAS_posTopRight .OAS_disclaimer{color: #CAC9C9;  font-weight: 100; margin: 0; padding: 0 0 6px; text-align: center; text-transform: uppercase;}
+#MML_vertical #shop_categories{clear:both;}
+#OAS_posTopRight iframe{width:300px !important;height:256px !important;}
+
+#kHMPGPromos2 .kHMPG_promos.promo4 .seeDetails {font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000;text-decoration: none;}
+#kHMPGPromos2 .kHMPG_promos.promo4 a.seeDetails {color:#000; text-decoration:none;}
+#kHMPGPromos2 .kHMPG_promos.promo4 a:hover.seeDetails {color:#CF001C; text-decoration:none;}
